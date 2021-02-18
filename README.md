@@ -32,7 +32,7 @@ task.resume()`
 
 ### App Walkthrough GIF
 
-<img src="https://recordit.co/wgvHeg4F1l" width=250><br>
+<img src="https://recordit.co/wgvHeg4F1l.gif" width=250><br>
 
 ---
 
